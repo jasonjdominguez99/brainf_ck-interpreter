@@ -1,2 +1,2 @@
-# brainf_ck-to-c
-A parser for running Brainf*ck code in C.
+# brainf_ck-interpreter
+A interpreter for running Brainf*ck code, made in C.
